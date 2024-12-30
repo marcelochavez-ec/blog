@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Este es un demo del Blog de Marcelo Chávez
 
 ```{r}
 1 + 1
