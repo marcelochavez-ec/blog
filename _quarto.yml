@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "blog.github.io"
+  title: "Blog"
   navbar:
     left:
       - href: index.qmd
@@ -16,4 +17,3 @@ format:
     toc: true
 
 editor: visual
-
